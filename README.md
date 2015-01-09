@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ninjapanzer/get_out_and_about.png?label=ready&title=Ready)](https://waffle.io/ninjapanzer/get_out_and_about)
 ### Get Out and About
 
 Stop missing out on fun communitiy events because somebody didn't pay `The Facebook`
