@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  start: 2015-01-09 16:02:44
+  end: 2015-01-09 16:02:44
+  timezone: MyString
+  location: MyString
+  overview: MyText
+  link: MyString
+  contact_info: MyString
+  category: MyString
+  price: 1.5
+  user_id: 
+  state: MyString
+
+two:
+  title: MyString
+  start: 2015-01-09 16:02:44
+  end: 2015-01-09 16:02:44
+  timezone: MyString
+  location: MyString
+  overview: MyText
+  link: MyString
+  contact_info: MyString
+  category: MyString
+  price: 1.5
+  user_id: 
+  state: MyString
