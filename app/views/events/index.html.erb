@@ -56,4 +56,13 @@
   <% end %>
 <% end %>
 
+<%= week_calendar number_of_weeks: 2, events: @events do |date, events| %>
+  <%= date %>
+  <% events.each do |event| %>
+    <div>
+      <%= event.name %>
+    </div>
+  <% end %>
+<% end %>
+
 <%= link_to 'New Event', new_event_path %>
